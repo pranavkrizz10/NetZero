@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated at runtime
+netzero.db
+ml/model.joblib
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
